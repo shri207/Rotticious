@@ -1,0 +1,6 @@
+{
+  "name": "Rotticious",
+  "description": "Premium modern café located on Thiruvika Road, Peters Colony, Royapettah, Chennai serving comfort food, artisanal coffee, and decadent desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
